@@ -1,0 +1,5 @@
+print("---currency calculator to USD to INR---")
+USD=88.79
+INR=int(input("enter INR"))
+COvINR=INR*USD
+print(COvINR)
